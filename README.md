@@ -1,4 +1,4 @@
-                                                     Pencil Length and Angle Estimation using Computer Vision
+                                               Pencil Length and Angle Estimation using Computer Vision
 Overview
 This project focuses on using computer vision techniques to analyze an image containing two pencils (labeled as Pencil A and Pencil B) positioned at an angle. The objectives include determining the lengths of both pencils, calculating the angle between them, and highlighting the region where the pencils intersect.
 
